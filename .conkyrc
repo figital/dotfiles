@@ -30,9 +30,8 @@ override_utf8_locale no
 #  Output
 ##############################################
 TEXT
-$alignr CONKY
+$alignr $nodename
 ${hr}
-Host: $alignr$nodename
 Uptime: $alignr$uptime
 RAM: $alignr$mem of $memmax
 Swap: $alignr$swap of $swapmax
