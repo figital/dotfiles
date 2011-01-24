@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="history-gedit2_search_for_entry" mtime="1295556522" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>collab</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>pace</stringvalue>
+		</li>
+	</entry>
+</gconf>
