@@ -15,3 +15,6 @@ sleech is probably short for leech, shit, and slurp.
 The only usable config file in here so far is .irssi/ ... after my last fresh Linux install I just git cloned sleech and then symlinked ~/.irssi to that directory in my local sleech repo. It's certainly quicker and easier than recustomizing an application.
 
 I've noticed other folks have named similar repe's "dotfiles" .... maybe I'll rename to that soon.
+
+Here's a good description of this line of thought ... http://blog.nelhage.com/2010/02/versioning-dotfiles-in-git/
+
