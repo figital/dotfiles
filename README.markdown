@@ -18,3 +18,5 @@ I've noticed other folks have named similar repe's "dotfiles" .... maybe I'll re
 
 Here's a good description of this line of thought ... http://blog.nelhage.com/2010/02/versioning-dotfiles-in-git/
 
+8/22/11: renamed to dotfiles like everyone else
+
