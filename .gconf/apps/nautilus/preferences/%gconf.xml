@@ -1,5 +1,0 @@
-<?xml version="1.0"?>
-<gconf>
-	<entry name="show_advanced_permissions" mtime="1295485199" type="bool" value="true"/>
-	<entry name="show_desktop" mtime="1295485198" type="bool" value="false"/>
-</gconf>
