@@ -1,0 +1,18 @@
+show_frame=false
+fg_set=true
+fg=55512R 55512G 55512B
+bg_set=true
+timezone=
+width_set=true
+height_set=true
+show0=true
+data0=%l:%M %P
+font0=
+show1=false
+show2=false
+tooltip=%A %d %B %Y/%V
+hib_timing=false
+width=80
+height=64
+bg=56540R 54741G 54847B
+

@@ -1,0 +1,12 @@
+[Global]
+MoveFirst=false
+ArrowPosition=0
+
+[Entry 0]
+Name=terminal
+Icon=Terminal
+Exec=terminator
+Path=/home/sfitchet
+Terminal=false
+StartupNotify=false
+
