@@ -1,0 +1,12 @@
+[Global]
+MoveFirst=false
+ArrowPosition=0
+
+[Entry 0]
+Name=chrome
+Icon=/usr/share/pixmaps/chromium-browser.png
+Exec=google-chrome
+Path=/home/sfitchet
+Terminal=false
+StartupNotify=false
+

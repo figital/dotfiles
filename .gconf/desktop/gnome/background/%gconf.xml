@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="draw_background" mtime="1295485198" type="bool" value="false"/>
+</gconf>
