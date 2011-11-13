@@ -1,3 +1,7 @@
+[Global]
+MoveFirst=false
+ArrowPosition=0
+
 [Entry 0]
 Name=Command Prompt
 Comment=X terminal emulator
@@ -5,8 +9,4 @@ Icon=utilities-terminal
 Exec=exo-open --launch TerminalEmulator
 Terminal=false
 StartupNotify=true
-
-[Global]
-MoveFirst=false
-ArrowPosition=0
 

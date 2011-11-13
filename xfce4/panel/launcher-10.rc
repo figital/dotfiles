@@ -1,3 +1,7 @@
+[Global]
+MoveFirst=false
+ArrowPosition=0
+
 [Entry 0]
 Name=Web Browser
 Comment=Surf the internet
@@ -5,8 +9,4 @@ Icon=web-browser
 Exec=exo-open --launch WebBrowser
 Terminal=false
 StartupNotify=false
-
-[Global]
-MoveFirst=false
-ArrowPosition=0
 

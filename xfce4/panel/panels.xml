@@ -8,7 +8,7 @@
 			<property name="screen-position" value="5"/>
 			<property name="fullwidth" value="0"/>
 			<property name="xoffset" value="0"/>
-			<property name="yoffset" value="229"/>
+			<property name="yoffset" value="285"/>
 			<property name="handlestyle" value="0"/>
 			<property name="autohide" value="0"/>
 			<property name="transparency" value="100"/>
@@ -19,10 +19,8 @@
 			<item name="launcher" id="9"/>
 			<item name="launcher" id="10"/>
 			<item name="launcher" id="12771072080"/>
-			<item name="xfce4-menu" id="13156913890"/>
 			<item name="separator" id="12771073931"/>
-			<item name="launcher" id="12771074092"/>
-			<item name="launcher" id="12771074753"/>
+			<item name="xfce4-menu" id="13156913890"/>
 		</items>
 	</panel>
 	<panel>
