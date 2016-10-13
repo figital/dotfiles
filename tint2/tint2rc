@@ -16,13 +16,13 @@ border_color = #121212 90
 
 # ID 2 - task active
 rounded = 1
-border_width = 0
+border_width = 1
 background_color = #d8d8d8 30
-border_color = #d8d8d8 30
+border_color = #ffffff 30
 
 # ID 3 - task
 rounded = 1
-border_width = 0
+border_width = 1
 background_color = #000000 0
 border_color = #000000 0
 
@@ -60,9 +60,9 @@ border_color = #888888 20
 panel_monitor = all
 panel_position = bottom center horizontal
 panel_items = TSC
-panel_size = 98% 30
+panel_size = 100% 40
 panel_margin = 0 0
-panel_padding = 0 0
+panel_padding = 5 5
 panel_dock = 0
 wm_menu = 1
 panel_layer = bottom
@@ -84,7 +84,7 @@ taskbar_name = 1
 taskbar_name_background_id = 0
 taskbar_name_active_background_id = 0
 taskbar_name_font = sans 9
-taskbar_name_font_color = #d8d8d8 100
+taskbar_name_font_color = yellow 100
 taskbar_name_active_font_color = #d8d8d8 100
 
 # Tasks
