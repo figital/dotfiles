@@ -6,6 +6,26 @@
 				<execute>x-terminal-emulator</execute>
 			</action>
 		</item>
+		<item label="bullseye easygui">
+			<action name="Execute">
+				<execute>python ~/easy.py</execute>
+			</action>
+		</item>
+		<item label="geany">
+			<action name="Execute">
+				<execute>geany</execute>
+			</action>
+		</item>
+		<item label="tilda">
+			<action name="Execute">
+				<execute>tilda</execute>
+			</action>
+		</item>
+		<item label="thunar">
+			<action name="Execute">
+				<execute>thunar</execute>
+			</action>
+		</item>
 		<item label="chromium-browser lol">
 			<action name="Execute">
 				<execute>chromium-browser</execute>
