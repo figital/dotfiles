@@ -11,9 +11,51 @@
 				<execute>python ~/easy.py</execute>
 			</action>
 		</item>
+		<menu id="root-menu-935920" label="Colors">
+			<menu id="menu-orange" label="orange">
+				<item label="leafpad">
+					<action name="Execute">
+						<execute>leafpad</execute>
+					</action>
+				</item>
+			</menu>
+			<menu id="menu-red" label="red">
+				<item label="leafpad">
+					<action name="Execute">
+						<execute>leafpad</execute>
+					</action>
+				</item>
+			</menu>
+			<menu id="menu-blue" label="blue">
+				<menu id="menu-skyblue" label="sky-blue">
+					<item label="New Item">
+						<action name="Execute">
+							<execute>command</execute>
+						</action>
+					</item>
+				</menu>
+				<menu id="menu-cadetblue" label="cadet-blue">
+					<item label="New Item">
+						<action name="Execute">
+							<execute>command</execute>
+						</action>
+					</item>
+				</menu>
+				<item label="New Item">
+					<action name="Execute">
+						<execute>command</execute>
+					</action>
+				</item>
+			</menu>
+		</menu>
 		<item label="geany">
 			<action name="Execute">
 				<execute>geany</execute>
+			</action>
+		</item>
+		<item label="leafpad">
+			<action name="Execute">
+				<execute>leafpad</execute>
 			</action>
 		</item>
 		<item label="tilda">
