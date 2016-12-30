@@ -1,0 +1,17 @@
+/* figital ~ thunderbird css */
+ 
+#threadTree > treechildren {
+	background-color:white;
+}
+
+#threadTree > treechildren::-moz-tree-row {
+	height: 20px !important;
+}
+
+#folderTree > treechildren::-moz-tree-row {
+	height: 30px !important;
+}
+
+#folderTree > * {
+	background-color:#ccc;
+}
