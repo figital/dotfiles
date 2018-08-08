@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <openbox_menu xmlns="http://openbox.org/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openbox.org/                 file:///usr/share/openbox/menu.xsd">
 	<menu id="root-menu" label="figital">
+		<item label="chromium">
+			<action name="Execute">
+				<execute>chromium</execute>
+			</action>
+		</item>
 		<item label="xterm">
 			<action name="Execute">
-				<execute>x-terminal-emulator</execute>
+				<execute>terminal</execute>
+			</action>
+		</item>
+		<item label="gedit">
+			<action name="Execute">
+				<execute>gedit</execute>
 			</action>
 		</item>
 		<item label="bullseye easygui">
@@ -48,6 +58,11 @@
 				</item>
 			</menu>
 		</menu>
+		<item label="thunderbird">
+			<action name="Execute">
+				<execute>thunderbird</execute>
+			</action>
+		</item>
 		<item label="geany">
 			<action name="Execute">
 				<execute>geany</execute>
@@ -66,11 +81,6 @@
 		<item label="thunar">
 			<action name="Execute">
 				<execute>thunar</execute>
-			</action>
-		</item>
-		<item label="chromium-browser lol">
-			<action name="Execute">
-				<execute>chromium-browser</execute>
 			</action>
 		</item>
 		<item label="wpa_gui">
